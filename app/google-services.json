@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883537320076",
+    "project_id": "login-firebase-mvvm-62b62",
+    "storage_bucket": "login-firebase-mvvm-62b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883537320076:android:338af10df51f63b905c3a9",
+        "android_client_info": {
+          "package_name": "com.jose.loginfirebasemvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlNrOcDRVEzsmJwUELhbqd_M3DAAZxMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
